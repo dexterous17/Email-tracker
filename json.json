@@ -1,0 +1,21 @@
+{
+    "id":"",
+    "company name":"",
+    "list":[
+        {
+            "id":"",
+            "campain name":"",
+            "Total email send":"",
+            "Total email open":"",
+            "Total email unopened":"",
+            "email list":[
+                {
+                    "First name":"",
+                    "Last name":"",
+                    "email id":"",
+                    "Total time open":""
+                }
+            ]
+        }
+    ]
+}
